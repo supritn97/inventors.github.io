@@ -1,0 +1,78 @@
+body{}
+
+
+
+
+.main{color:black;
+        font-size: 50px;
+        text-align: center;
+        text-shadow: 7px 5px 4px grey;
+        font-family: ;}
+
+.table-head{height: 50px;
+            width: 1321px;
+            margin-left: 15px;
+        }
+        
+.inventer{width: 1320px;
+        margin-left: 15px;
+        }
+
+
+.IMG{width: 350px;
+     }
+
+.DOB{width: 258px;}
+
+.NAME{width: 528px;}
+
+.YEAR{width: 163px;}
+
+.img2{margin-left: 100px;
+      width: 330px;
+      }
+
+.name{color: darkblue;
+      margin-left:80px;
+      font-family: sanskrit text;
+      font-weight: 900;
+      font-size: 20px;}
+
+.Name{font-family: sanskrit text;
+      margin-left: 200px;
+      color:darkblue;
+      font-size: 20px;}
+
+.dob{font-family: sanskrit text;
+     color: darkblue;
+     font-size: 35px;
+     margin-left: 20px;
+     font-weight: bold;
+     }
+
+.yob{margin-left: 90px;
+      color: darkblue;
+      font-size: 35px;
+      font-family: georgia;
+      }
+
+
+.year{font-family: sanskrit text;
+      color: darkblue;
+      margin-left: 50px;
+      font-size: 35px;
+      }
+
+
+
+.table-head th{color: darkblue;
+            font-size: 19px;
+            font-family: cooper;
+            letter-spacing: 1.5px;
+            word-spacing: 3px;
+            line-height: 30px;
+            text-decoration underline ;
+            }
+
+.img{margin-left: 10px;
+     }
